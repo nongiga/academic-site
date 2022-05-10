@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: twitter
-    icon_pack: fab
+    icon_pack: ai
     link: https://twitter.com/nongiga
   - icon: graduation-cap
     icon_pack: fas
