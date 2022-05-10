@@ -45,4 +45,4 @@ I am a first-year PhD student at Columbia University's department of Systems Bio
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv-may2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-may2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
