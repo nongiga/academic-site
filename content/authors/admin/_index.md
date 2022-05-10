@@ -41,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a first-year PhD student at Columbia University's department of Systems Biology, and a recipient of the Open Philanthropy Project Early Career Funding. My research predominantly focuses on how to represent data collected in biology, such as genomes and proteomes, in a manner that makes their analysis easier. Previously, I was a student at Kishony Lab at the Technion, where I harnessed novel genomic approaches and big data to investigate how bacterial pathogens evolve upon recurring infections.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv-may2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
