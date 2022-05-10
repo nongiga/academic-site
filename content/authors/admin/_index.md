@@ -1,22 +1,19 @@
 ---
 title: Noga Aharony
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+role: PhD Student in Systems Biology
+bio: My research interests include the Microbiome, Unsupervised Learning, and
+  Biosecurity.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/nongiga
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=nVw6rmsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/nongiga
@@ -24,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/nogaaharony
 organizations:
-  - name: Columbia University
-    url: https://www.stanford.edu/
+  - name: Columbia University Medical Campus
+    url: https://www.cuimc.columbia.edu/
 education:
   courses:
     - course: PhD in Systems Biology
@@ -41,8 +38,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a first-year PhD student at Columbia University's department of Systems Biology, and a recipient of the Open Philanthropy Project Early Career Funding. My research predominantly focuses on how to represent data collected in biology, such as genomes and proteomes, in a manner that makes their analysis easier. Previously, I was a student at Kishony Lab at the Technion, where I harnessed novel genomic approaches and big data to investigate how bacterial pathogens evolve upon recurring infections.
+I am a first-year PhD student at Columbia University's department of Systems Biology, and a recipient of the Open Philanthropy Project Early Career Funding. My research predominantly focuses on how to represent data collected in biology, such as genomes and proteomes, in a manner that makes their analysis easier. 
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-may2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Previously, I was a student at Kishony Lab at the Technion, where I harnessed novel genomic approaches and big data to investigate how bacterial pathogens evolve upon recurring infections.
