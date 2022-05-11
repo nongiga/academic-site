@@ -1,7 +1,7 @@
 ---
 title: Noga Aharony
 role: PhD Student in Systems Biology
-avatar_filename: e6939a98-39eb-4ac4-9fda-b2a2c1e94d5a_4_5005_c.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include the Microbiome, Unsupervised Learning, and
   Biosecurity.
 interests: []
