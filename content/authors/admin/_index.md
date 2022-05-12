@@ -4,7 +4,7 @@ role: PhD Student in Systems Biology
 avatar_filename: avatar.jpg
 bio: My research interests include the Microbiome, Unsupervised Learning, and
   Biosecurity.
-interests: []
+interests: ["Microbiome","Genomics","Self-supervised learning"]
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Systems Biology
       institution: Columbia University
-      year: ""
+      year: Ongoing
     - course: MSc in Biology
       institution: Technion - Israel Institute of Technology
       year: 2021
