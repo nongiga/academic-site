@@ -2,9 +2,8 @@
 title: Noga Aharony
 role: PhD Student in Systems Biology
 avatar_filename: avatar.jpg
-bio: My research interests include the Microbiome, Unsupervised Learning, and
-  Biosecurity.
-interests: ["Microbiome","Genomics","Self-supervised learning"]
+bio: My research interests include the large language models and genomics.
+interests: ["Large languagde models","Genomics"]
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,6 +38,9 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a first-year PhD student at Columbia University's department of Systems Biology, and a recipient of the Open Philanthropy Project Early Career Funding. My research predominantly focuses on how to represent data collected in biology, such as genomes and proteomes, in a manner that makes their analysis easier. 
+I am a third-year PhD candidate in at the AQLab, located in the Program for Mathematical Genomics at Columbia University. My research focuses on constructing a foundational, whole-genome language model that can be generalized to all living things, and which could aid the decoding and engineering of organisms, and especially microbes. My background is in biology and especially systems microbiology, and over time I became increasingly fascinated with how to adapt machine learning in a "biologically-aware" manner to get the most out of living systems.
 
-Previously, I was a student at Kishony Lab at the Technion, where I harnessed novel genomic approaches and big data to investigate how bacterial pathogens evolve upon recurring infections.
+I am a recipient of the Open Philanthropy Project Early Career Funding. As a Master's student at the Kishony Lab at the Technion, 
+I received the prestigious Gutwirth Memorial Fellowship for Excellence in Research for harnessing novel genomic approaches and big data to investigate how bacterial pathogens evolve upon recurring infections.
+
+I have also occasionally been active in the science and society space, and especially in pandemic preparedness, where I have been involved since 2018.
